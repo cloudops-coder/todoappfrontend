@@ -12,6 +12,7 @@ This document provides a complete setup guide for deploying the Todo App on Ubun
 
 Ensure your system or virtual machines have:
 
+
 - **Ubuntu OS**
 - **Node.js v16.x and npm**
 - **NGINX Web Server**
